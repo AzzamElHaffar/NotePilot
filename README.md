@@ -68,13 +68,12 @@ assets/screenshots/
 └── folder_functionality.png
 ```
 
-```markdown
 ![Notes screen](lib/assets/screenshots/notes_screen.png)
 ![Prompts screen](lib/assets/screenshots/prompts_screen.png)
 ![Two-page note](lib/assets/screenshots/two_pages_notes_screen.png)
 ![Folder functionality](lib/assets/screenshots/folder_functionality.png)
 ![Notes and prompts functionality](lib/assets/screenshots/notes_and_prompts_functionality.png)
-```
+
 
 ## Quick Start
 
