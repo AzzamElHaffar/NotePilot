@@ -69,11 +69,11 @@ assets/screenshots/
 ```
 
 ```markdown
-![Notes screen](assets/screenshots/notes_screen.png)
-![Prompts screen](assets/screenshots/prompts_screen.png)
-![Two Pages Notes screen](assets/screenshots/two_pages_notes_screen.png)
-![Notes and Prompts Functionality](assets/screenshots/notes_and_prompts_functionality.png)
-![Folder Functionality](assets/screenshots/folder_functionality.png)
+![Notes screen](lib/assets/screenshots/notes_screen.png)
+![Prompts screen](lib/assets/screenshots/prompts_screen.png)
+![Two-page note](lib/assets/screenshots/two_pages_notes_screen.png)
+![Folder functionality](lib/assets/screenshots/folder_functionality.png)
+![Notes and prompts functionality](lib/assets/screenshots/notes_and_prompts_functionality.png)
 ```
 
 ## Quick Start
